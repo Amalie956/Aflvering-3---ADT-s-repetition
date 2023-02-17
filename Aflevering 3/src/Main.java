@@ -23,6 +23,6 @@ public class Main {
         //MiniMainRedditPost.ExerciseE();
 
         //Opgave F
-        RedditFrontPage.ExerciseF();
+        //RedditFrontPage.ExerciseF();
     }
 }
